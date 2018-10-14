@@ -4,7 +4,7 @@ body{
 }
 .hero
 {
-background-image: url("/Users/janinelucas/Documents/Projects/broadway/resources/images/the-flatiron-building.png");
+background-image: url("../images/the-flatiron-building.png");
 color: white;
 }
 
@@ -26,7 +26,7 @@ font-size 23px;
 }
 p
 {
-font-size: 14px;  
+font-size: 14px;
 }
 .nav
 {
@@ -42,6 +42,7 @@ colour: gray;
 #ny
 {
 font-size: 23px;
+vertical-align: middle;
 }
 .footer
 {
