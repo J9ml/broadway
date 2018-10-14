@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+}
+.hero
+{
+background-image: url("/Users/janinelucas/Documents/Projects/broadway/resources/images/the-flatiron-building.png");
+
+}
+h1
+{
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
