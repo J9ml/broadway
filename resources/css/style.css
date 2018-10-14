@@ -17,7 +17,8 @@ color: white;
 
 .nav
 {
-  color: white
+  color: white;
+  font-size: 18px;
 }
 
 .process
@@ -32,4 +33,8 @@ font-size: 23px;
 .footer
 {
   background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
+  padding-left: 5px;
 }
