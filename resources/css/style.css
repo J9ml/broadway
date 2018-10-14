@@ -5,6 +5,7 @@ body{
 .hero
 {
 background-image: url("/Users/janinelucas/Documents/Projects/broadway/resources/images/the-flatiron-building.png");
+color: white;
 }
 
 h1
@@ -21,5 +22,14 @@ color: white;
 
 .process
 {
-colour: gray;  
+colour: gray;
+}
+
+#ny
+{
+font-size: 23px;
+}
+.footer
+{
+  background-color: dimgray;
 }
